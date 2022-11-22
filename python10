@@ -1,0 +1,14 @@
+#write a python program to read student data
+
+sno=int(input("enter studentno:"))
+name=input("enter student name:")
+group=(input("enter group:"))
+gender=input("enter student gender:")
+address=input("enter student address:")
+phone=int(input("enter phone:"))
+print("sno:",sno)
+print("name:",name)
+print("group:",group)
+print("gender:",gender)
+print("address:",address)
+print("phone:",phone)
